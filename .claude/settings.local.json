@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(powershell.exe -ExecutionPolicy Bypass -File SiteChecker.ps1)"
-    ]
-  }
-}
